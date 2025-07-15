@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/APIS": {},
+    "/APIS/bienvenida": {},
+    "/APIS/login": {},
+    "/APIS/registro": {}
+  }
+}
