@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/APIS',
+  basePath: '/API2',
   supportedLocales: {
   "en-US": ""
 },
